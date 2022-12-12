@@ -1,0 +1,16 @@
+{
+  "name": "artpotlov/vkbot-with-gcalendar",
+  "description": "vkbot with google calendar",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Artem Potlov",
+      "email": "potlov.artem@gmail.com"
+    }
+  ],
+  "require": {
+    "vkcom/vk-php-sdk": "^5.80",
+    "google/apiclient": "^2.0"
+  }
+}
